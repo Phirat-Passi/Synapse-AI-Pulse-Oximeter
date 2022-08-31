@@ -1,6 +1,6 @@
 /** \file algorithm.cpp ******************************************************
 *
-* Project: MAXREFDES117#
+* Project: Synapse AI
 * Filename: algorithm.cpp
 * Description: This module calculates the heart rate/SpO2 level
 *
