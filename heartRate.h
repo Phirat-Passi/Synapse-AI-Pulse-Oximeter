@@ -1,8 +1,6 @@
 /*
  Optical Heart Rate Detection (PBA Algorithm)
- By: Nathan Seidle
- SparkFun Electronics
- Date: October 2nd, 2016
+ By: Phirat Passi
  
  Given a series of IR samples from the MAX30105 we discern when a heart beat is occurring
  Let's have a brief chat about what this code does. We're going to try to detect
