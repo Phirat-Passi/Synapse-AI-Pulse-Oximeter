@@ -1,6 +1,6 @@
 /** \file algorithm.h ******************************************************
 *
-* Project: MAXREFDES117#
+* Project: Phirat Passi
 * Filename: algorithm.h
 * Description: This module is the heart rate/SpO2 calculation algorithm header file
 *
